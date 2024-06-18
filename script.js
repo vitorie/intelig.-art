@@ -6,17 +6,17 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "como é o processo da fabricação da cachaça no Brasil?",
+        enunciado: "Como é o processo da fabricação da cachaça no Brasil?",
         alternativas: [
-            "Primamente você corta a cana em baixo e a ponta depois voce coloca ele em um forno com uma das pontas para fora do fogo e o caldo que sair e a cachaça pura",
-            ""
+            "Temos que corta a cana em baixo, proximo a raiz,a ponta devemos coloca em um forno contando para que ela fique para fora do fogo e o caldo que sair e a cachaça pura",
+            "A cana deve ser cortada do meio para cima para ser bem aproveitada, apos isso a espremos e colocamos alcool no szuco da cana"
         ]
     },
     {
-        enunciado: "Pergunta 2",
+        enunciado: "Como é feito um destilado?",
         alternativas: [
-            "Alternativa 1",
-            "Alternativa 2"
+            "Começamos pela fermentação como qualquer outra bebida alcoolica, apos isso é usados fungos, leveduras e bacterias que viram a produzir o alcool na subistancia porem para uma bebida ser realmente destilada é preciso ser fervida a maior quantidade de alcool",
+            "Começamos pela fermentação e fervura de extratos e adição de alcool,apos isso as substancias se misturam e viram a bebida destilada"
         ]
     },
     {
